@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1623033846 source:c:\users\white\desktop\trabalhofinalperiodo\trabalhobarumj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+
+1623093448 source:c:\users\programing\desktop\trabalhofinalperiodo\trabalhobarumj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+
+1623212998 source:c:\users\convidado mc\desktop\trabalhofinalperiodo\trabalhobarumj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+
+1623275261 source:c:\users\programing\documents\trabalhofinalperiodo\trabalhobarumj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+
+1623300991 source:c:\users\convidado mc\documents\trabalhobarumj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+
+1623731231 source:c:\users\convidado mc\desktop\trabalhobarumj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+
+1623784178 source:c:\users\programing\desktop\trabalhobarumj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+
+1623813999 source:c:\users\convidado mc\music\trabalhobarumj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<conio.h>
+
+1623930222 source:c:\users\programing\music\trabalhobarumj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<conio.h>
+
