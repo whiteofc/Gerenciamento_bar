@@ -1,14 +1,14 @@
 # Seja bem vindo!
 <h2>Sobre o projeto:</h2>
 <p>
-  Sistema para gerenciamento de bares, contém as seguintes funcionalidades:
-  Login administrativo
-  Controle de estoque
-  Inserção de novos produtos
-  Alteração de Valores
-  Abertura e fechamento de caixa
-  Cardapio
-  Compra de produtos
+  Sistema para gerenciamento de bares, contém as seguintes funcionalidades: <br>
+  Login administrativo <br>
+  Controle de estoque <br>
+  Inserção de novos produtos <br>
+  Alteração de Valores <br>
+  Abertura e fechamento de caixa <br>
+  Cardapio <br>
+  Compra de produtos <br>
 </p>
 <h2>Tecnologias utilizadas:</h2>
 <ul>
