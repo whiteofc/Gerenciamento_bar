@@ -2,7 +2,7 @@
 <h2>Sobre o projeto:</h2>
 <p>
   Sistema para gerenciamento de bares, contém as seguintes funcionalidades: <br>
-  Login administrativo <br>
+  Login administrativo - Senha criptografada<br>
   Controle de estoque <br>
   Inserção de novos produtos <br>
   Alteração de Valores <br>
